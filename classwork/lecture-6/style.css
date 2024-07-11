@@ -6,6 +6,7 @@ body{
     background-image: url(assets/bg.jpg);
     background-size: cover;
     background-position: center;
+    overflow: hidden;
 }
 body header{
     border-top: 8px solid #EC3237;
